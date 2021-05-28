@@ -1,5 +1,8 @@
+.container{
+ text-align: center;
+}
 #answer{
-    width: 300px;
+    width: 320px;
     border-radius: 13px;
 }
 .calc{
@@ -7,4 +10,15 @@
     padding: 10px;
     display: inline-block;
     border-radius: 20px;
+}
+
+input{
+    font-size: 30px;
+    width: 70px;
+    height: 60px;
+    margin: 5px;
+    border-radius: 10px;
+    border: none;
+    
+
 }
