@@ -1,0 +1,10 @@
+#answer{
+    width: 300px;
+    border-radius: 13px;
+}
+.calc{
+    background-color: brown;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 20px;
+}
